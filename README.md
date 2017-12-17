@@ -1,3 +1,7 @@
+Database used: MongoDB
+running on port 27017
+Collections required: "CompanyDetails"
+
 Rest Enpoints:
 1) To gather startup names and few details from the website
 route: /company
