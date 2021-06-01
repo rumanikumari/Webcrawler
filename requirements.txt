@@ -79,7 +79,7 @@ Scrapy==1.4.0
 service-identity==17.0.0
 six==1.11.0
 Twisted==16.4.1
-urllib3==1.22
+urllib3==1.26.5
 vboxapi==1.0
 w3lib==1.18.0
 Werkzeug==0.13
