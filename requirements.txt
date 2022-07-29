@@ -75,7 +75,7 @@ pytz==2013.7
 queuelib==1.4.2
 requests==2.18.4
 scipy==0.13.0b1
-Scrapy==1.4.0
+Scrapy==2.6.2
 service-identity==17.0.0
 six==1.11.0
 Twisted==16.4.1
